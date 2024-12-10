@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 hello atguigu.
 hi atguigu
 hi guigu
 4444444444
 main-test
+hello
+11111111
+22222222
+33333333 hot-fix-test
+44444444
+hot-fix
